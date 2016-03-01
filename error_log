@@ -1,0 +1,5 @@
+[01-Dec-2015 10:54:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 80 bytes) in /home/mrluciano/public_html/flexzonemealprep.com/wp-includes/wp-db.php on line 2258
+[01-Dec-2015 10:54:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 83 bytes) in /home/mrluciano/public_html/flexzonemealprep.com/wp-includes/wp-db.php on line 2258
+[01-Dec-2015 10:55:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 64 bytes) in /home/mrluciano/public_html/flexzonemealprep.com/wp-includes/wp-db.php on line 2258
+[01-Dec-2015 10:55:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/mrluciano/public_html/flexzonemealprep.com/wp-includes/wp-db.php on line 2258
+[01-Dec-2015 10:55:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/mrluciano/public_html/flexzonemealprep.com/wp-includes/wp-db.php on line 2258

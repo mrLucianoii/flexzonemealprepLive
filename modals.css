@@ -1,0 +1,44 @@
+.modal-header {
+     background : -moz-linear-gradient(50% 0% -90deg,rgba(18, 9, 89, 1) 0%,rgba(9, 5, 45, 1) 100%);
+  background : -webkit-linear-gradient(-90deg, rgba(18, 9, 89, 1) 0%, rgba(9, 5, 45, 1) 100%);
+  background : -webkit-gradient(linear,50% 0% ,50% 100% ,color-stop(0,rgba(18, 9, 89, 1) ),color-stop(1,rgba(9, 5, 45, 1) ));
+  background : -o-linear-gradient(-90deg, rgba(18, 9, 89, 1) 0%, rgba(9, 5, 45, 1) 100%);
+  background : -ms-linear-gradient(-90deg, rgba(18, 9, 89, 1) 0%, rgba(9, 5, 45, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#120959', endColorstr='#09052D' ,GradientType=0)";
+  background : linear-gradient(180deg, rgba(18, 9, 89, 1) 0%, rgba(9, 5, 45, 1) 100%);
+}
+img#bay {
+	width: 100%;
+	height: auto;
+    margin-top: 27px;
+    	-webkit-box-shadow :0.5px 2px 3px rgba(70, 70, 70, 0.8);
+  	-moz-box-shadow : 0.5px 2px 3px rgba(70, 70, 70, 0.8);
+	box-shadow : 0.5px 2px 3px rgba(70, 70, 70, 0.8);
+
+}
+.modal-body img {
+    width: 180px;
+	margin-top: 7px;
+	margin-right: 13px;
+    border:solid 1px #020202;
+        	-webkit-box-shadow :0.5px 2px 3px rgba(70, 70, 70, 0.8);
+  	-moz-box-shadow : 0.5px 2px 3px rgba(70, 70, 70, 0.8);
+	box-shadow : 0.5px 2px 3px rgba(70, 70, 70, 0.8);
+
+}
+h2#practice{
+    color: #727272;
+}
+.modal-open {
+    height: 100%;
+    overflow: hidden !important;
+}
+.modal h2 {
+    color: #FF7419;
+}
+.modal h1 {
+    color: #3D52A3;
+}
+.modal h3 {
+    color: #727272;
+}
