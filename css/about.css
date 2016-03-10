@@ -78,6 +78,20 @@ img#food-pic2 {
 img#food-pic3 {
     float: none;
 }
+/* Pricing */
+#pricing li {
+    text-align: center;
+    list-style: none;
+}
+#pricing h3 {
+    text-align: center;
+        color: #FF7419;
+    font-weight: 900;
+    border-bottom: solid 1px #ff7419;
+}
+#weekPrice h4 {
+    color: #14cc00
+}
 @media (max-width: 768px) {
     img#food-pic {
         float: none;
